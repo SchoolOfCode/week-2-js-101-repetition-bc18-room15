@@ -19,15 +19,20 @@
 
 5. Repeat steps three and four, but use [different mathematical operators](https://www.w3schools.com/js/js_arithmetic.asp).
 
-## Task 2:
+// Task 2:
 
-1. Make a variable that is a string (using `""` or `''`).
+// 1. Make a variable that is a string (using `""` or `''`).
 
-2. Using the `+` operator, reassign your variable to be what it was before, concatenated with another string.
+// Using the `+` operator, reassign your variable to be what it was before, concatenated with another string.
 
-For example, if the value of your variable is `"Hi"`, use the `+` operator so that it's reassigned to `"Hi there"`.
+// For example, if the value of your variable is `"Hi"`, use the `+` operator so that it's reassigned to `"Hi there"`.
 
-1. Read the value of `myString` in the console to prove to yourself that it has changed.
+// Read the value of `myString` in the console to prove to yourself that it has changed.
+
+let a = "Hi";
+let b = "there";
+let x = a + b
+return x
 
 ## Task 3:
 
